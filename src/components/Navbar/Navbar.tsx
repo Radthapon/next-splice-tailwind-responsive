@@ -54,7 +54,7 @@ const Navbar = () => {
             LOG IN
           </Link>
           <Link href="" 
-          className={`bg-white/30 backdrop-blur-xl py-2 px-8 rounded-3xl ${!top ? 'bg-slate-900' : ''}`}>
+          className={`bg-white/30 backdrop-blur-xl py-2 px-8 rounded-3xl ${!top ? ' bg-black/90' : 'bg-white/30'}`}>
             SIGN UP
             </Link>
         </div>
