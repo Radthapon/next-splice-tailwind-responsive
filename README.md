@@ -1,7 +1,7 @@
 Design Figma By
 https://www.figma.com/file/UF9WMoK1g5QxaCoidvZH7C/Splice-Landing-Page-(Community)?node-id=0%3A1&mode=dev
 
-View Damo
+View Demo
 https://next-splice-tailwind-responsive.vercel.app/
 
 
