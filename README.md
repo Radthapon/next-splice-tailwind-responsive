@@ -2,7 +2,7 @@ Design Figma By
 https://www.figma.com/file/UF9WMoK1g5QxaCoidvZH7C/Splice-Landing-Page-(Community)?node-id=0%3A1&mode=dev
 
 View Demo
-https://next-splice-tailwind-responsive.vercel.app/
+https://next-splice-tailwind-responsive-full.vercel.app/
 
 
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
